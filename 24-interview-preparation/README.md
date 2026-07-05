@@ -1,0 +1,14 @@
+# Part XXIV — Interview Preparation 🎓
+
+> 🚧 **Content in progress.** This section's structure is finalized; full write-ups, diagrams, and code examples are being added incrementally. Contributions welcome — see [CONTRIBUTING.md](../CONTRIBUTING.md).
+
+## In This Section
+
+- Top GenAI Interview Questions
+- Architecture & System Design Questions
+- Prompt & RAG Questions
+- Coding Exercises
+
+---
+
+⬅️ [Back to main roadmap](../README.md)
